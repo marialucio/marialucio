@@ -30,7 +30,7 @@
 <h1></h1>
 
 <div align="center"><br>
-  <img alt="Ly-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/777743978812145684/1093780606812426250/ezgif.com-gif-maker.gif?width=513&height=513"><br><br>
+  <img alt="Ly-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/777743978812145684/1102335748562227320/picasion.com_bd5e8d20d81afabd0b0a72bc19249b68.gif"><br><br>
   <a href ="mailto:marialucio.mlj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
