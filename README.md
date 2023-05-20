@@ -1,8 +1,8 @@
 ## i'm ly 🦇
 
-~★ hiii! me chamo _maria_ e tenho _18 anos_.
+~★ hii! me chamo _maria_ e tenho _18 anos_.
 
-~★ estudante do curso _técnico em informática_. 'tô aprendendo, eu _juro_!
+~★ estudante do curso _técnico em informática_.
 
 ~★ _"what if i don't float?"_
 
