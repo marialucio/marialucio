@@ -33,7 +33,8 @@
 
 <div align="center"><br>
   <img alt="Ly-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/777743978812145684/1102335748562227320/picasion.com_bd5e8d20d81afabd0b0a72bc19249b68.gif"><br><br>
-  <a href ="mailto:marialucio.mlj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="mailto:marialucio.mlj@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href ="https://replit.com/@mariaml?tab=repls" target="_blank"><img src="https://cdn.sanity.io/images/bj34pdbp/migration/3c2f2d404a571d2c9fbca934360352698d63433a-1920x900.png?w=1920&q=75&fit=clip&auto=format" target="_blank"  height="28" width="80"></a>
 </div>
 
 <h1></h1>
