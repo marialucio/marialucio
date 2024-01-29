@@ -2,7 +2,7 @@
 
 ~★ hii! me chamo _maria_ e tenho _19 anos_.
 
-~★ estudante do curso _técnico em informática_.
+~★ sou _técnica em informática_.
 
 ~★ aprendiz tech na _Amazon Web Services_.
 
