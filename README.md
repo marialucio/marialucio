@@ -1,8 +1,10 @@
 ## i'm ly 🦇
 
-~★ hii! me chamo _maria_ e tenho _19 anos_.
+~★ hii! me chamo _maria_ e tenho _20 anos_.
 
 ~★ sou _técnica em informática_.
+
+~★ bacharel em _sistemas de informação_ na _USP_.
 
 ~★ aprendiz tech na _Amazon Web Services_.
 
