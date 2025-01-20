@@ -6,7 +6,7 @@
 
 ~★ bacharel em _sistemas de informação_ na _USP_.
 
-~★ aprendiz tech na _Amazon Web Services_.
+~★ arquiteta de soluções na _Amazon Web Services_.
 
 ~★ _"what if i don't float?"_
 
