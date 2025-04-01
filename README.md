@@ -6,8 +6,6 @@
 
 ~★ bacharel em _sistemas de informação_ na _USP_.
 
-~★ arquiteta de soluções na _Amazon Web Services_.
-
 ~★ _"what if i don't float?"_
 
 <h1></h1>
